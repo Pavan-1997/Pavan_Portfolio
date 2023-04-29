@@ -1,3 +1,5 @@
+ ![](/images/github-header-image.png)
+
 ### PRIVATE PROJECTS DONE :
 
 **Deployed a voting application on AWS, AZURE and GCP using the below microservices:**
